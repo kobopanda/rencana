@@ -1,2 +1,5 @@
 belajar git, github, gitlab
 belajar html css javascript
+belajar framework
+belajar algoritma dan struktur data
+belajar interview code
